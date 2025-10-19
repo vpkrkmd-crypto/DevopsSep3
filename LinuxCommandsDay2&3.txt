@@ -1,0 +1,17 @@
+name->Displays user name
+Touch->It creates a file.
+Ls->list files inside the folder
+Ls –l->Long Listing format
+Cat>filename–>We can write content into the file.
+Cat filename->To view content in the file
+Cat>>file->To have multiple lines without content getting replaced
+Mkdir–>Make a directory
+Rmdir->Remove directory
+Rm –r->Recurrsive delete
+Cp-<src><destination> --> Copy File
+Grep->To search for a word in the content.
+Echo->For Printing Statements
+Wget–>For downloading external content using a link
+Curl->To view the content on the screen
+Awk-> is used for data filtering.
+Cat filename ! Awk –F “:” ‘{print $1F}’
