@@ -1,0 +1,31 @@
+vim editor is for editing purpose 
+
+syntax vim <filename>
+
+vim <filename>
+
+this syntax will open file if it already exists
+this syntax will create file and open file if not exists 
+
+There are 3 modes available to understand VIM 
+
+1. Esc Mode 
+2. Colon/Command Mode 
+3. Insert Mode 
+
+Esc Mode: This is file default mode if you want to edit file then enter into Insert mode 
+Insert Mode: Press I, enter the text then save it. to save we have to enter into Colon mode 
+Colon Mode:  Press Colon the enter WQ write and quit
+
+open the file and enter text and dont save 
+
+vim filename
+press I and enter text press ESC for reaching mode then Press Colon 
+
+:q!  ! is for not saving text 
+
+Open the file and close it 
+
+VIM filename 
+press esc then : 
+:Q q is for quit
